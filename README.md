@@ -4,3 +4,4 @@
      📚 Eu amo livros.
      🎞 Amo filmes de fantasia.
      📖 Amo escrever.
+     🐈 Amo animais.
