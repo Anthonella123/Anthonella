@@ -1,4 +1,6 @@
 # Sobre mim
 
-🪷 Olá, sou a _Anthonella_.
-📚 Eu amo livros 
+🪷 Olá, sou a _*Anthonella*_.
+📚 Eu amo livros.
+🎞 Amo filmes de fantasia.
+📖 Amo escrever.
